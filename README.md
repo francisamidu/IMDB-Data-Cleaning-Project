@@ -1,26 +1,18 @@
-### README: IMDB Movies Dataset Cleaning Project
+## IMDB Movies Dataset Cleaning Project
 
----
-
-#### **Title**
-
-IMDB Movies Dataset Cleaning Project
-
----
-
-#### **About**
+### **About**
 
 This project involves cleaning and organizing a messy dataset that holds information about movies from IMDB. The aim was to clean the dataset into an applicable, accurate, and coherent format so further analysis and insights can be exposed.
 
 ---
 
-#### **Description**
+### **Description**
 
 The dataset was really messy, with missing and inconsistent data, wrong information, and formatting issues. My work focused on the systematic solution of these problems to finally have a cleaned and reliable dataset.
 
 ---
 
-#### **What I Did**
+### **What I Did**
 
 Here’s the list of cleaning tasks performed:
 
@@ -28,19 +20,19 @@ Here’s the list of cleaning tasks performed:
 2. **Fixed Inconsistent Dates for Release**: Made the date formats consistent to ensure consistency.
 3. **Added Release Dates After Verification**: Added dates that were previously empty after verifying them from credible sources.
 4. **Corrected Typos and Symbols**: Corrected non-standard symbols and typos to improve readability as well as accuracy.
-5. Added and Corrected Duration of Movies: Filled in missing movie durations and corrected any mistakes in the existing data.
+5. **Added and Corrected Duration of Movies**: Filled in missing movie durations and corrected any mistakes in the existing data.
 6. **Added and Corrected PG Rating**: Parental Guidance ratings were added and standardized to ensure consistency throughout the data set.
 
 ---
 
-#### **Tools Used**
+### **Tools Used**
 
 - **Excel**: For data manipulation and cleaning.
 - **Web Research**: Verified release dates and PG ratings from trusted sources.
 
 ---
 
-#### **Comparison Between Messy and Clean Data**
+### **Comparison Between Messy and Clean Data**
 
 | **Aspect**              | **Messy Data**                      | **Clean Data**                            |
 | ----------------------- | ----------------------------------- | ----------------------------------------- |
@@ -52,7 +44,15 @@ Here’s the list of cleaning tasks performed:
 
 ---
 
-#### **Lessons Learned**
+![Messy Data](Messy_Data.jpg)
+_Figure 1: Example of the messy dataset before cleaning._
+
+![Clean Data](Clean_Data.jpg)
+_Figure 2: Example of the cleaned dataset after applying cleaning steps._
+
+---
+
+### **Lessons Learned**
 
 - **Importance of Consistency**: The cleaning of datasets calls for attention to detail and knowledge of the potential impacts of consistency on analysis.
 - **Research Skills Matter**: Filling in missing data accurately often requires external validation.

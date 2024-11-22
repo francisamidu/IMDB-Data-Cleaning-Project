@@ -1,4 +1,4 @@
-IMBD title ID,Original title,Release Year,Genre,Duration(Mins),Country,Content Rating,Director,Income,Vote Count,Score
+IMDB title ID,Original title,Release Year,Genre,Duration(Mins),Country,Content Rating,Director,Income,Vote Count,Score
 tt0111161,The Shawshank Redemption,2/10/1995,Drama,142,USA,R,Frank Darabont,"$28,815,245 ","2,856,969",8.2
 tt0068646,The Godfather,9/21/1972,"Crime, Drama",175,USA,R,Francis Ford Coppola,"$246,120,974 ","1,990,573",10
 tt0468569,The Dark Knight,7/23/2008,"Action, Crime, Drama",152,US,PG-13,Christopher Nolan,"$1,005,455,211 ","2,838,037",8.4
