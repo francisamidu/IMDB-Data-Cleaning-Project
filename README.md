@@ -1,11 +1,5 @@
 ## IMDB Movies Dataset Cleaning Project
 
-### **About**
-
-This project involves cleaning and organizing a messy dataset that holds information about movies from IMDB. The aim was to clean the dataset into an applicable, accurate, and coherent format so further analysis and insights can be exposed.
-
----
-
 ### **Description**
 
 The dataset was really messy, with missing and inconsistent data, wrong information, and formatting issues. My work focused on the systematic solution of these problems to finally have a cleaned and reliable dataset.
